@@ -12,7 +12,7 @@
 - `https://scholar.google.com/citations?user=n6vNDhkAAAAJ`：Google Scholar 个人链接
 - `wukechen@fzfu.edu.cn`：联系邮箱
 
-头像文件位于 `assets/avatar.png`，首页通过圆形裁切展示。
+头像文件位于 `avatar.png`，首页通过圆形裁切展示。
 
 ## 部署到 GitHub Pages
 
